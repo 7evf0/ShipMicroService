@@ -1,0 +1,46 @@
+
+    Ship Micro Service  CRUD Route(s) Documentation
+    ----------------------------------------------------------
+
+A - MODIFYING ROUTES
+
+    1 - Adding Ship     -   POST    -   localhost:5000/api/addShip
+
+        has body structure as:
+
+        {
+            "imo_no": "IMO313131313",
+            "name": "MasterShip 3",
+            "mmsi": "XXMM89XYXX06",
+            ...
+        }
+
+    ** imo_no is required!!
+
+    2 - Updating Ship   -   POST    -   localhost:5000/api/updateShip/{imo_no}
+
+        has body structure as:
+
+        {
+            "name": "MasterShip 2",
+            "mmsi": "XXMM89XYXX06",
+            "flag": "Turkey"
+            ...
+        }
+
+    3 - Delete Ship     -   DELETE  -   localhost:5000/api/updateShip/{imo_no}
+
+B - FETCHING ROUTES
+
+    1 - Find All Ships   -   GET     -   localhost:5000/api/findAllShips
+
+    2 - Find All Filtered Ships -   GET     -   localhost:5000/api/findAllShipsFiltered
+
+        filters are added via request parameters.
+
+        e.g.    Key:    construction_year
+                Value:  1990
+
+    3 - Search Ships By Name    -   GET     -   localhost:5000/api/searchShips/name/{name}
+
+    4 - Search Ships By Flag    -   GET     -   localhost:5000/api/searchShips/flag/{flag}

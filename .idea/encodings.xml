@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ship-app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ship-app/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ship-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ship-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ship-data/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ship-data/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ship-endpoint/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ship-endpoint/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ship-parent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ship-parent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ship-repository/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ship-repository/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ship.endpoint/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ship.endpoint/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vms/voyage-app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vms/voyage-app/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vms/voyage-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vms/voyage-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vms/voyage-data/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vms/voyage-data/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vms/voyage-endpoint/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vms/voyage-endpoint/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vms/voyage-parent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vms/voyage-parent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vms/voyage-repository/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vms/voyage-repository/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
